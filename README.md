@@ -65,14 +65,9 @@ To deploy your own version, import the repository into Vercel and configure the 
   <strong>&lt;/&gt; Developer</strong>
   <br><br>
   <a href="https://github.com/raedmosaed0">
-    <img src="https://img.shields.io/badge/Raed%20Mosaed-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Raed Mosaed on GitHub">
+    <strong>Raed Mosaed</strong>
   </a>
-  <br><br>
-  <strong>Raed Mosaed</strong>
-  <br>
-  <a href="https://github.com/raedmosaed0">github.com/raedmosaed0</a>
 </p>
-
 ---
 
 ## 🌐 Live Website
