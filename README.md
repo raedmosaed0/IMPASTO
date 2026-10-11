@@ -61,15 +61,8 @@ To deploy your own version, import the repository into Vercel and configure the 
 
 ## 🌐 Live Website
 
-<p align="center">
-  <a href="https://impasto-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Website-Visit%20Impasto-CB2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Impasto Website">
-  </a>
-  <br><br>
-  <a href="https://impasto-beta.vercel.app/">impasto-beta.vercel.app</a>
-</p>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-F05A28?style=for-the-badge&labelColor=0A0F0A)](https://impasto-beta.vercel.app/)
 
----
 ## </> Developer
 
 **Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
