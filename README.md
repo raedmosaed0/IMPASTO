@@ -53,12 +53,6 @@ With a focus on visual identity, elegant presentation, and user experience, Impa
 
    You can also use the Live Server extension in Visual Studio Code for local development.
 
-### Deployment
-
-The website is deployed using [Vercel](https://vercel.com/).
-
-To deploy your own version, import the repository into Vercel and configure the project according to its files and build settings.
-
 ## 🌐 Live Website
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-F05A28?style=for-the-badge&labelColor=0A0F0A)](https://impasto-beta.vercel.app/)
