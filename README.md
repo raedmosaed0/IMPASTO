@@ -59,17 +59,6 @@ The website is deployed using [Vercel](https://vercel.com/).
 
 To deploy your own version, import the repository into Vercel and configure the project according to its files and build settings.
 
-## 🧑‍💻 Developer
-
-<p align="center">
-  <strong>&lt;/&gt; Developer</strong>
-  <br><br>
-  <a href="https://github.com/raedmosaed0">
-    <strong>Raed Mosaed</strong>
-  </a>
-</p>
----
-
 ## 🌐 Live Website
 
 <p align="center">
@@ -81,9 +70,6 @@ To deploy your own version, import the repository into Vercel and configure the 
 </p>
 
 ---
+## </> Developer
 
-<p align="center">
-  Made with ❤️ and a taste of Italy.
-  <br><br>
-  <strong>Impasto © 2026</strong>
-</p>
+**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
