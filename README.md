@@ -2,56 +2,46 @@
   <img src="./Logo.png" width="30%" alt="Impasto Logo">
 </p>
 
-# 🍕 Impasto — A Little Taste of Italy.
+<h1 align="center">🍕 Impasto — A Little Taste of Italy.</h1>
 
 <p align="center">
-  <strong>A Little Taste of Italy.</strong>
+  <strong>Authentic Italian Taste. Timeless Elegance.</strong>
   <br>
-  A modern restaurant website inspired by Italian cuisine, authentic flavors, and elegant design.
+  A modern Italian restaurant experience where authentic flavors meet sophisticated design.
 </p>
 
 ---
 
 ## 📖 About The Project
 
-**Impasto** is a modern Italian restaurant website concept created to bring the atmosphere of Italian cuisine to the digital world.
+**Impasto** is a modern restaurant website concept inspired by the rich culinary heritage of Italy, the art of traditional pizza making, and the beauty of Italian dining culture.
 
-With a focus on visual identity, elegant presentation, and user experience, Impasto aims to create a welcoming online experience for pizza lovers and fans of Italian food.
+Designed with a strong visual identity and a refined aesthetic, Impasto brings the warmth and charm of an Italian restaurant into a seamless digital experience. From its elegant presentation to its carefully crafted interface, every detail is designed to reflect the character, passion, and simplicity of Italian cuisine.
+
+More than just a restaurant website, Impasto represents a digital brand experience built around great food, thoughtful design, and the timeless spirit of Italy.
 
 ## ✨ Features
 
-- 🍕 **Italian Restaurant Experience** — A website inspired by Italian pizza and cuisine.
-- 🎨 **Modern UI/UX** — An elegant and visually engaging interface.
-- 📱 **Responsive Design** — Designed to work across different screen sizes.
-- ⚡ **Smooth Browsing** — Focused on usability and a pleasant browsing experience.
-- 🖼️ **Visual Identity** — A distinctive design inspired by Italian restaurant culture.
-- 🌐 **Live Website** — Deployed and accessible online through Vercel.
+- 🍕 **Italian-Inspired Experience** — A digital presence inspired by authentic Italian cuisine and traditional pizza culture.
+- 🎨 **Elegant Visual Identity** — A distinctive design language that reflects the warmth and sophistication of Italian dining.
+- 🖥️ **Modern UI/UX** — A clean, visually engaging interface designed to deliver an intuitive browsing experience.
+- 📱 **Responsive Layout** — An adaptable design for a consistent experience across desktop, tablet, and mobile devices.
+- 🖼️ **Immersive Presentation** — Carefully arranged visuals and content that bring the restaurant's identity to life.
+- ⚡ **Smooth Navigation** — A user-focused browsing experience with an emphasis on clarity and usability.
+- 🌐 **Live Deployment** — Published online through Vercel and accessible directly from the browser.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Deployment:** Vercel
-- **Version Control:** Git & GitHub
+- **HTML5** 
+- **CSS3**
+- **JavaScript**
+- **Responsive Web Design**
 
-## 🚀 Getting Started
+## 🖥️ Website Preview
 
-### Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd Impasto
-   ```
-
-3. Open `index.html` in your browser.
-
-   You can also use the Live Server extension in Visual Studio Code for local development.
+<p align="center">
+  <img src="./Preview.png" alt="Impasto Website Preview" width="100%">
+</p>
 
 ## 🌐 Live Website
 
@@ -59,4 +49,8 @@ With a focus on visual identity, elegant presentation, and user experience, Impa
 
 ## </> Developer
 
-**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
+**Developed by [Raed Mosaed](https://github.comraedmosaed0)**
+
+---
+
+© 2026 IMPASTO. All rights reserved.
