@@ -1,14 +1,13 @@
  <p align="center">
-  <img src="./Logo.png" width="30%" alt="Impasto Logo">
+  <img src="./Logo.png" width="40%" alt="Impasto Logo">
 </p>
 
-<h1 align="center">🍕 Impasto — A Little Taste of Italy.</h1>
+<h1 align="center">IMPASTO — Italian Restaurant Website</h1>
 
 <p align="center">
-  <strong>Authentic Italian Taste. Timeless Elegance.</strong>
+  <strong>Il vero sapore d'Italia.</strong>
   <br>
-  A modern Italian restaurant experience where authentic flavors meet sophisticated design.
-</p>
+Un'esperienza di ristorazione italiana moderna, dove i sapori autentici incontrano un design raffinato.</p>
 
 ---
 
