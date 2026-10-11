@@ -28,7 +28,6 @@ More than just a restaurant website, Impasto represents a digital brand experien
 - 📱 **Responsive Layout** — An adaptable design for a consistent experience across desktop, tablet, and mobile devices.
 - 🖼️ **Immersive Presentation** — Carefully arranged visuals and content that bring the restaurant's identity to life.
 - ⚡ **Smooth Navigation** — A user-focused browsing experience with an emphasis on clarity and usability.
-- 🌐 **Live Deployment** — Published online through Vercel and accessible directly from the browser.
 
 ## 🛠️ Tech Stack
 
