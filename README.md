@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About The Project
+## 🧡 About The Project
 
 **Impasto** is a modern restaurant website concept inspired by the rich culinary heritage of Italy, the art of traditional pizza making, and the beauty of Italian dining culture.
 
@@ -20,7 +20,7 @@ Designed with a strong visual identity and a refined aesthetic, Impasto brings t
 
 More than just a restaurant website, Impasto represents a digital brand experience built around great food, thoughtful design, and the timeless spirit of Italy.
 
-## ✨ Features
+## 🌶 Features
 
 - 🍕 **Italian-Inspired Experience** — A digital presence inspired by authentic Italian cuisine and traditional pizza culture.
 - 🎨 **Elegant Visual Identity** — A distinctive design language that reflects the warmth and sophistication of Italian dining.
@@ -29,7 +29,7 @@ More than just a restaurant website, Impasto represents a digital brand experien
 - 🖼️ **Immersive Presentation** — Carefully arranged visuals and content that bring the restaurant's identity to life.
 - ⚡ **Smooth Navigation** — A user-focused browsing experience with an emphasis on clarity and usability.
 
-## 🛠️ Tech Stack
+## ⚙ Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -61,7 +61,7 @@ Install Impasto directly from the website with a single tap using the built-in *
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-F05A28?style=for-the-badge&labelColor=0A0F0A)](https://impasto-beta.vercel.app/)
 
-## 👨‍💻 Developer
+## </> Developer
 
 **Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
 
