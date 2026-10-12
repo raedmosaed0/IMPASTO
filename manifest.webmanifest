@@ -1,0 +1,16 @@
+{
+  "name": "IMPASTO",
+  "short_name": "IMPASTO",
+  "description": "IMPASTO — a modern Italian restaurant serving freshly made pizza and pasta.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffcf7",
+  "theme_color": "#fffcf7",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
