@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="./Logo.png" width="40%" alt="Impasto Logo">
 </p>
 
@@ -7,7 +7,8 @@
 <p align="center">
   <strong>Il vero sapore d'Italia.</strong>
   <br>
-Un'esperienza di ristorazione italiana moderna, dove i sapori autentici incontrano un design raffinato.</p>
+  Un'esperienza di ristorazione italiana moderna, dove i sapori autentici incontrano un design raffinato.
+</p>
 
 ---
 
@@ -38,6 +39,12 @@ More than just a restaurant website, Impasto represents a digital brand experien
 - **Service Worker**
 - **Responsive Web Design**
 
+## ⚠️ Demo Notice
+
+Impasto is a website concept created for demonstration purposes. All links, contact details, phone numbers, addresses, prices, and other interactive information displayed on the website are fictional or used for testing purposes only and may not represent a real restaurant or its services.
+
+Some links and features may not lead to actual services or functional destinations. No real transactions or restaurant services are provided through this demo unless explicitly stated otherwise.
+
 ## 📥 Download & Install
 
 Install Impasto directly from the website with a single tap using the built-in **Install App** button, and enjoy a seamless experience on supported devices.
@@ -54,9 +61,9 @@ Install Impasto directly from the website with a single tap using the built-in *
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-F05A28?style=for-the-badge&labelColor=0A0F0A)](https://impasto-beta.vercel.app/)
 
-## </> Developer
+## 👨‍💻 Developer
 
-**Developed by [Raed Mosaed](https://github.comraedmosaed0)**
+**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
