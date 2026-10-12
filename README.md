@@ -30,10 +30,19 @@ More than just a restaurant website, Impasto represents a digital brand experien
 
 ## 🛠️ Tech Stack
 
-- **HTML5** 
+- **HTML5**
 - **CSS3**
 - **JavaScript**
+- **Progressive Web App (PWA)**
+- **Web App Manifest**
+- **Service Worker**
 - **Responsive Web Design**
+
+## 📥 Download & Install
+
+Install Impasto directly from the website with a single tap using the built-in **Install App** button, and enjoy a seamless experience on supported devices.
+
+[![Install App](https://img.shields.io/badge/Install%20App-Download-F05A28?style=for-the-badge&labelColor=0A0F0A)](https://impasto-beta.vercel.app/)
 
 ## 🖥️ Website Preview
 
