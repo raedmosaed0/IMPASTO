@@ -63,7 +63,7 @@ Install Impasto directly from the website with a single tap using the built-in *
 
 ## </> Developer
 
-**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
+**Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
